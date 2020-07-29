@@ -1,0 +1,35 @@
+.top-links {
+    top: 16px;
+    position: relative;
+    font-size: 13px;
+    color: #222;
+    font-family: arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    text-decoration: underline;
+}
+
+#top-links-1 {
+    position: absolute;
+    margin: 7px 0 0 10px;
+    color: #222;
+}
+
+#top-link-about {
+    display: inline-block;
+    color: #000;
+    opacity: 0.75;
+    padding-left: 15px;
+}
+
+#top-link-store {
+    display: inline-block;
+    color: #000;
+    opacity: 0.75;
+    padding-left: 15px;
+}
